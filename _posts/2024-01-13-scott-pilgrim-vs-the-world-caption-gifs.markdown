@@ -10,8 +10,8 @@ The full Imgur album can be found [here!](https://imgur.com/a/9dZWhVN)
 
 | Dialogue                                       | Link                          |
 |------------------------------------------------|-------------------------------|
-| Wicked...                                      | [](https://imgur.com/nhTKIMP) |
-| OK, I'm getting tingles. Woah...               | [](https://imgur.com/PUK4CpN) |
-| SCOTT PILGRIM/22 YEARS OLD/RATING: AWESOME     | [](https://imgur.com/Cojygj4) |
-| So did you guys like... you know... do it yet? | [](https://imgur.com/2j6mn9a) |
-| I WANNA TAKE THEM APART.                       | [](https://imgur.com/b36T6V7) |
+| Wicked...                                      | [imgur.com/nhTKIMP](https://imgur.com/nhTKIMP) |
+| OK, I'm getting tingles. Woah...               | [imgur.com/PUK4CpN](https://imgur.com/PUK4CpN) |
+| SCOTT PILGRIM/22 YEARS OLD/RATING: AWESOME     | [imgur.com/Cojygj4](https://imgur.com/Cojygj4) |
+| So did you guys like... you know... do it yet? | [imgur.com/2j6mn9a](https://imgur.com/2j6mn9a) |
+| I WANNA TAKE THEM APART.                       | [imgur.com/b36T6V7](https://imgur.com/b36T6V7) |
