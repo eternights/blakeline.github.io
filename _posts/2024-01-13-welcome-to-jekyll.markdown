@@ -1,29 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-01-13 12:37:55 +0700
-categories: jekyll update
+title:  "Scott Pilgrim vs. the World Caption GIFs"
+date:   2024-01-13 12:45:00 +0700
+categories: stuff
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I made a few GIFs through [Imgur](https://imgur.com/) with most of dialogues from the hit 2010 movie, [Scott Pilgrim vs. the World](https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World). I'm a big fan of this movie, that's one of the reasons why I made these.
 
-Jekyll requires blog post files to be named according to the following format:
+The full Imgur album can be found [here!](https://imgur.com/a/9dZWhVN)
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+| Preview                                                               | Dialogue                                       | Link                      |
+|-----------------------------------------------------------------------|------------------------------------------------|---------------------------|
+| <details><summary>➕</summary>![](https://imgur.com/nhTKIMP)</details> | Wicked...                                      | https://imgur.com/nhTKIMP |
+|                                                                       | OK, I'm getting tingles. Woah...               | https://imgur.com/PUK4CpN |
+|                                                                       | SCOTT PILGRIM/22 YEARS OLD/RATING: AWESOME     | https://imgur.com/Cojygj4 |
+|                                                                       | So did you guys like... you know... do it yet? | https://imgur.com/2j6mn9a |
+|                                                                       | I WANNA TAKE THEM APART.                       | https://imgur.com/b36T6V7 |
