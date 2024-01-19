@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scott Pilgrim vs. the World Caption GIFs"
-date:   2024-01-14 16:26:00 +0700
+date:   2024-01-14 23:25:00 +0700
 categories: stuff
 ---
 <p align="center">
@@ -32,7 +32,6 @@ The full Imgur album can be found [here!](https://imgur.com/a/9dZWhVN)
 | slap | [imgur.com/mhpO83B](https://imgur.com/mhpO83B) |
 | Really? Is she hot? | [imgur.com/xPExRaD](https://imgur.com/xPExRaD) |
 | I'm not playing your little games, kids. | [imgur.com/NDnf3eJ](https://imgur.com/NDnf3eJ) |
-| Not bad, not bad. | [imgur.com/alXDmkN](https://imgur.com/alXDmkN) |
 | Well, aren't you pleased as punch. | [imgur.com/xSvKjou](https://imgur.com/xSvKjou) |
 | I don't know what you're talking about. | [imgur.com/al9r6wN](https://imgur.com/al9r6wN) |
 | suspicious | [imgur.com/eVS019W](https://imgur.com/eVS019W) |
@@ -52,7 +51,6 @@ The full Imgur album can be found [here!](https://imgur.com/a/9dZWhVN)
 | Hey, you know me. | [imgur.com/Y3rAqlj](https://imgur.com/Y3rAqlj) |
 | STACEY PILGRIM/YOUNGER SISTER/18 YEARS OLD/RATING: "T" FOR TEEN | [imgur.com/TIoejFN](https://imgur.com/TIoejFN) |
 | That gossipy bitch. | [imgur.com/gR0N1tX](https://imgur.com/gR0N1tX) |
-| This is my cool gay roommate, Wallace Wells./He's gay. | [imgur.com/oAVdMcc](https://imgur.com/oAVdMcc) |
 | Wallace, you go now. Begone. | [imgur.com/F3MNIoZ](https://imgur.com/F3MNIoZ) |
 | Did you know that the original name for Pac-Man was Puck-Man? You’d think it was because he looks like a hockey puck but it actually comes from the Japanese phrase "Paku-Paku," which means to flap one’s mouth open and closed. They changed it because they thought Puck-Man would be too easy to vandalize, you know, like people could just scratch off the P and turn it into an F or whatever. | [imgur.com/0r1eZWo](https://imgur.com/0r1eZWo) |
 | combo | [imgur.com/cya5iM2](https://imgur.com/cya5iM2) |
@@ -86,5 +84,46 @@ The full Imgur album can be found [here!](https://imgur.com/a/9dZWhVN)
 | hurt | [imgur.com/qHdm0kn](https://imgur.com/qHdm0kn) |
 | kim stare | [imgur.com/EwfDJOU](https://imgur.com/EwfDJOU) |
 | sleep | [imgur.com/sxvb98u](https://imgur.com/sxvb98u) |
+| wallace sleeping | [imgur.com/ZhZE0wc](https://imgur.com/ZhZE0wc) |
+| Amazon.ca, what's the website for that?/"Amazon.ca" | [imgur.com/drmfXjH](https://imgur.com/drmfXjH) |
+| This is my cool gay roommate, Wallace Wells./He's gay. | [imgur.com/kkC5PpE](https://imgur.com/kkC5PpE) |
+| I have to order something really cool... | [imgur.com/VSCs45f](https://imgur.com/VSCs45f) |
+| YOU'VE GOT MAIL!/Dude, this thing claims I have mail!/It's amazing what we can do with computers these days.../Dude, now I'm reading it!/So happy for you. | [imgur.com/AN9avnj](https://imgur.com/AN9avnj) |
+| Dude, this thing claims I have mail! | [imgur.com/oEXreHw](https://imgur.com/oEXreHw) |
+| It's amazing what we can do with computers these days... | [imgur.com/6Cb6HcU](https://imgur.com/6Cb6HcU) |
+| So happy for you... | [imgur.com/QYql7Bc](https://imgur.com/QYql7Bc) |
+| "Dear Mr. Pilgrim, it has come to my attention that we will be fighting soon. My name is Matthew Patel, and..." blahblahblah | [imgur.com/sNwztuo](https://imgur.com/sNwztuo) | 
+| ATTACK HUG!!!/Attack hug... That's so cute. So cute. | [imgur.com/nTDX4CK](https://imgur.com/nTDX4CK) |
+| ATTACK HUG!!! | [imgur.com/ucri1N9](https://imgur.com/ucri1N9) |
+| How could I possibly forget?.. | [imgur.com/FaamTLs](https://imgur.com/FaamTLs) |
+| wallace tired | [imgur.com/AYG4vbG](https://imgur.com/AYG4vbG) |
+| Oh, okay. I'm sorry, that was all me. | [imgur.com/c35BVm5](https://imgur.com/c35BVm5) |
+| NEGA NINJA! | [imgur.com/yKPc0P2](https://imgur.com/yKPc0P2) |
+| I can never get past that guy. | [imgur.com/VgouzbD](https://imgur.com/VgouzbD) |
+| Don't beat yourself up about it! | [imgur.com/XxkrsLm](https://imgur.com/XxkrsLm) |
+| scott sad | [imgur.com/JeoikQo](https://imgur.com/JeoikQo) |
+| stephen jumpscare | [imgur.com/jI0zR55](https://imgur.com/jI0zR55) |
+| Game on, everybody. Game on. | [imgur.com/MOzbGWD](https://imgur.com/MOzbGWD) |
+| Not bad, not bad. | [imgur.com/0FlVTkt](https://imgur.com/0FlVTkt) |
+| OH, MY GOSH, when!? | [imgur.com/vAlQBAY](https://imgur.com/vAlQBAY) |
+| Wednesday... | [imgur.com/o8KfpMv](https://imgur.com/o8KfpMv) |
+| Woah. | [imgur.com/LC4BwRl](https://imgur.com/LC4BwRl) |
+| This guy at work was like, "Steve, you know anybody in a band?"/And I was like, "I'm in a band."/And he was like, "You're in a band?"/And I was like, "Yeah, I'm totally in a band."/Great story man. | [imgur.com/DOJbR0a](https://imgur.com/DOJbR0a) |
+| Great story man. | [imgur.com/VGX0Bm3](https://imgur.com/VGX0Bm3) |
+| Who's that? | [imgur.com/hVFrEal](https://imgur.com/hVFrEal) |
+| YOU DON'T KNOW?! | [imgur.com/gRuX8Wm](https://imgur.com/gRuX8Wm) |
+| I have to pee. | [imgur.com/TGhxsPh](https://imgur.com/TGhxsPh) |
+| scott peeing/pee bar | [imgur.com/6ilNWL6](https://imgur.com/6ilNWL6) |
+| open door | [imgur.com/4gPEMqZ](https://imgur.com/4gPEMqZ) |
+| scott jumpscare | [imgur.com/jzB30Is](https://imgur.com/jzB30Is) |
+| early open door | [imgur.com/E4CpyMP](https://imgur.com/E4CpyMP) | 
+| Hi, I was thinking about asking you out, but I realized how stupid that would be./So, do you want to go out sometime? | [imgur.com/F98I9pB](https://imgur.com/F98I9pB) |
+| It's not weird at all/It's not?.. | [imgur.com/01s7195](https://imgur.com/01s7195) |
+| Right, right... | [imgur.com/V2CUJYO](https://imgur.com/V2CUJYO) |
+| Yeah, it's how it works. | [imgur.com/ugHgaVH](https://imgur.com/ugHgaVH) |
+| Um. Yeah, if that's cool... | [imgur.com/J5RGKLu](https://imgur.com/J5RGKLu) |
+| get package | [imgur.com/efDSOOs](https://imgur.com/efDSOOs) |
+| SO YEAH | [imgur.com/TlUHd2N](https://imgur.com/TlUHd2N) |
+| Oh, you assumed wrong. | [imgur.com/wOLW2t0](https://imgur.com/wOLW2t0) |
 
-Note, these aren't actually GIFs, they are videos but played loop and without a sound or a prompt to start the video. The editing program I use to make these is Premiere Pro 2024 and using the 1080p Blu-Ray rip. The fonts used are [Eurostile Black](https://www.myfonts.com/products/t-black-eurostile-332611) (big texts) and [Swiss 721 Bold Condensed](https://www.myfonts.com/products/bold-condensed-swiss-721-rounded-433637) (subtitles), thanks to the DaFont community for finding the fonts! Also a credit to [ThirteenAG](https://thirteenag.github.io/) for his inspiration on [GTA One Liners](https://thirteenag.github.io/gta-one-liners), it's pretty similar to mine.
+Note, these aren't actually GIFs, they are videos but played loop and without a sound or a prompt to start the video. The editing program I use to make these is Premiere Pro 2024 and using the 1080p Blu-Ray rip. The fonts used are [Eurostile Black](https://www.myfonts.com/products/t-black-eurostile-332611) (big texts) and [Swiss 721 Bold Condensed](https://www.myfonts.com/products/bold-condensed-swiss-721-rounded-433637) (subtitles), thanks to the DaFont community for finding the fonts! Also a credit to [GTA One Liners](https://thirteenag.github.io/gta-one-liners).
